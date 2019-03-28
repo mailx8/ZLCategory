@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
 ## 名称
 spec.name         = "ZLCategory"
 ## 版本号
-spec.version      = "1.0.1"
+spec.version      = "1.0.2"
 ## 注释
 spec.summary      = "A short description of ZLCategory."
 
